@@ -15,5 +15,5 @@ exports.conf = {
 };
 
 exports.help = {
-    name: 'reedem-<CODE>', // Please replace <Code> with a custom code. (Example: KEC-E4M7-3NY5)
+    name: 'reedem-<CODE>', // Please replace <Code> with a custom code! (Example: KEC-E4M7-3NY5)
 };
